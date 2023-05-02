@@ -1,0 +1,20 @@
+
+.Video{
+    height: 235px;
+    width: 461px;
+    margin: 10px;
+}
+.Video img{
+    height: 235px;
+    width: 461px;
+
+}
+.text{
+    font-size: 17px;
+    position: relative;
+    left: 20px;
+}
+.text img{
+    border-radius: 100%;
+
+}
